@@ -1,6 +1,6 @@
 # sentiment-sarcasm-using-MTL
 
-# 🎯 Sentiment Analysis and Sarcasm Detection using Deep Multi-task Learning
+# 😄😢😐 Sentiment Analysis and Sarcasm Detection using Deep Multi-task Learning
 This repo is the official resource of the following paper.
 - [Sentiment Analysis and Sarcasm Detection using Deep Multi-task Learning](https://link.springer.com/article/10.1007/s11277-023-10235-4), Wireless Personal Communications (2023).
 
