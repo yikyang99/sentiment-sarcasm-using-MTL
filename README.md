@@ -7,7 +7,7 @@ This repo is the official resource of the following paper.
 
 ## 📚 Data Sets
 
-The data sets for the model development presented in [our paper](https://link.springer.com/article/10.1007/s11277-023-10235-4) are available below.
+The datasets for the model development presented in [our paper](https://link.springer.com/article/10.1007/s11277-023-10235-4) are from [Kaggle](https://www.kaggle.com/) and available on the links below.
 
 - Sentiment Analysis Dataset - [[Download](https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset)]
 
